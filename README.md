@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <img align="center" alt="Gif" width="1200" height="360" src="https://user-images.githubusercontent.com/89659564/141134891-6c3ffd3e-3872-43e1-8911-8bae3ca3e34e.gif">
+  <img align="center" alt="Gif" width="900" height="320" src="https://user-images.githubusercontent.com/89659564/141134891-6c3ffd3e-3872-43e1-8911-8bae3ca3e34e.gif">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
